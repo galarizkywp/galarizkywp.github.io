@@ -7,3 +7,5 @@ About This Site:
 
 <h2>About Me:</h2>
 <p>Hello! I'm Rizky Putra, 21 years old who's interested in photography, especially for performing arts. I've graduated from University of Indonesia, Communication Science and now still learning about web development in HACKTIV8.</p>
+
+<h3> Future Plan: </h3>
