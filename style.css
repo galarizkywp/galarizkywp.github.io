@@ -17,7 +17,7 @@ h1{
   position: relative;
   top: 0px;
   width: 100%;
-  background-image: url("img/Picture_One.JPG");
+  background-image: url("img/Picture_One.jpg");
   background-size:cover;
   background-attachment: fixed;
 }
@@ -63,7 +63,7 @@ h5{
   position: relative;
   top: -50px;
   width: 100%;
-  background-image: url("img/Picture_Two.JPG");
+  background-image: url("img/Picture_Two.jpg");
   background-size:cover;
   background-attachment: fixed;
 }
@@ -89,7 +89,7 @@ h6{
   position: relative;
   top: -60px;
   width: 100%;
-  background-image: url("img/Picture_Three.JPG");
+  background-image: url("img/Picture_Three.jpg");
   background-size:cover;
   background-attachment: fixed;
 }
